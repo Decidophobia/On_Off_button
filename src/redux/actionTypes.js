@@ -1,0 +1,1 @@
+export const GET_BUTTON_STATE = 'GET_BUTTON_STATE';
